@@ -22,9 +22,9 @@ export default function App() {
       }}>
           <StatusBar style={styles.statusBar} />
         <Stack.Navigator>
-          <Stack.Screen name={"WhatsApp"} component={Routes} options={{
+          <Stack.Screen name={"WhatsHome"} component={Routes} options={{
               headerStyle: {
-                  elevation: 0
+                  elevation: 0,
               }
           }}/>
         </Stack.Navigator>

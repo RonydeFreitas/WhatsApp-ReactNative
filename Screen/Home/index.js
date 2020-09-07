@@ -12,7 +12,9 @@ function Conversas() {
 
     return (
         <>
-            <ItemLista onPress={() => {navigateToMessages("TelaConversa")}} />
+            <ItemLista onPress={() => {
+                navigateToMessages("TelaConversa")
+            }} />
         </>
     );
 }

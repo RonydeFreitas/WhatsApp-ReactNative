@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3093d29-e446-4e0d-93be-bd6a55a8a292" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WhatsApp-ReactNative.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen/Camera/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen/Chamadas/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen/Settings/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Screen/TelaConversa/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/splashok.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/ItemLista/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component/Tab/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Screen/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen/TelaConversa/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Screen/TelaConversa/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +24,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -57,11 +44,33 @@
       <option name="presentableId" value="Default" />
       <updated>1599433370003</updated>
       <workItem from="1599433372226" duration="218000" />
-      <workItem from="1599435024007" duration="694000" />
+      <workItem from="1599435024007" duration="4358000" />
     </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1599436375866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599436375866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1599436370879">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599436370879" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1599436379813">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1599436379813" />
   </component>
 </project>

@@ -5,8 +5,8 @@ import { MaterialIcons } from '@expo/vector-icons';
 
 function TelaConversas() {
     const scrollViewRef = useRef();
-const [value, setValue] = React.useState();
-const [mensagens, setMensagens] = React.useState([
+    const [value, setValue] = React.useState();
+    const [mensagens, setMensagens] = React.useState([
     {
         tipo: 'received',
         content: "contentMessage.replace(/  +/g, '')",
